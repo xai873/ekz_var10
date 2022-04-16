@@ -1,0 +1,10 @@
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\bin\Debug\книга_экз.exe.config
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\bin\Debug\книга_экз.exe
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\bin\Debug\книга_экз.pdb
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\obj\Debug\книга_экз.csproj.AssemblyReference.cache
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\obj\Debug\книга_экз.Form1.resources
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\obj\Debug\книга_экз.Properties.Resources.resources
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\obj\Debug\книга_экз.csproj.GenerateResource.cache
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\obj\Debug\книга_экз.csproj.CoreCompileInputs.cache
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\obj\Debug\книга_экз.exe
+C:\Users\mobil\Desktop\123\книга_экз\книга_экз\obj\Debug\книга_экз.pdb
